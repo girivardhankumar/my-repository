@@ -1,5 +1,5 @@
 #This is a sample Image creation
-FROM ubuntu 
+FROM nginx 
 MAINTAINER demousr@gmail.com 
 
 RUN apt-get update 
